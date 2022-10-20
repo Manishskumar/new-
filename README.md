@@ -7,7 +7,7 @@ Login from.
 <body>
 <form><br>
 Login id:<input type ="text" name="username" value=""><br>
-password:<input type ="password" value=""><br>
+password:<input type ="password" name ="password"value=""><br>
 <input type ="submit" value="submit"><br>
 </form>
 </body>
